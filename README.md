@@ -122,6 +122,3 @@ Course: Database Systems / Software Development
 
 Institution: PLP ACADEMY
 
-# 🏁 License
-
-This project is developed for educational purposes and is free to use or modify for learning.
